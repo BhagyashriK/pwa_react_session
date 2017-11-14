@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: 'helvetica';
+}
+h1 {
+    font-size: 20px;
+}
+
+/* Header style  */
+
+.header {
+ padding: 10px;    
+ background-color: #9d2123;
+ text-align: center;
+}
+/* Generic classes */
+.main-container {
+    padding: 20px;
+}
+
+/* Article List  */
+.article-list-heading{
+    color: #00733e;
+    font-weight: 400;
+}
+.article-list-heading >span:first-child {
+    border-bottom: 2px solid #9d2123;
+}
